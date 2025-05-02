@@ -27,3 +27,7 @@ Code Structure
 
 Live Demo
     Check out a live version of a similar digital clock project: https://iamsatyamy.github.io/digital-clock-using-html-css-js/ .
+
+    
+![Screenshot (1445)](https://github.com/user-attachments/assets/77983efd-b340-4fc6-9c0e-682cfcfd2440)
+
